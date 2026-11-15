@@ -1,0 +1,1 @@
+{ "name": "token-usage", "version": "0.1.0", "description": "Side panel: token usage by model for this session and the last 7 days, main thread vs subagents", "types": "./types/index.d.ts" }
